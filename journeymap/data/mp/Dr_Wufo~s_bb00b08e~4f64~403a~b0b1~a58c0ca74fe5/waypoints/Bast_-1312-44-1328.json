@@ -1,0 +1,22 @@
+{
+  "id": "Bast_-1312-44-1328",
+  "name": "Bast",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7611202-waypoint-icon.png",
+  "x": -1312,
+  "y": 44,
+  "z": -1328,
+  "r": 139,
+  "g": 220,
+  "b": 190,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

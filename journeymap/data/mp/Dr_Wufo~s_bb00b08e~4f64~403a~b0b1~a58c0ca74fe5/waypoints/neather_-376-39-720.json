@@ -1,0 +1,24 @@
+{
+  "id": "neather_-376-39-720",
+  "name": "neather",
+  "groupName": ":Waystones",
+  "displayId": "f19ed89b-6c3f-4902-b2a6-0ca096d37e37",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -376,
+  "y": 39,
+  "z": -720,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

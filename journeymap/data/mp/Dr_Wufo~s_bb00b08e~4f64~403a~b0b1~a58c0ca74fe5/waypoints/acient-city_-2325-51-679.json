@@ -1,0 +1,24 @@
+{
+  "id": "acient-city_-2325-51-679",
+  "name": "acient city",
+  "groupName": ":Waystones",
+  "displayId": "cd4de46d-7f80-4d00-955c-88531da31aa1",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -2325,
+  "y": -51,
+  "z": 679,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

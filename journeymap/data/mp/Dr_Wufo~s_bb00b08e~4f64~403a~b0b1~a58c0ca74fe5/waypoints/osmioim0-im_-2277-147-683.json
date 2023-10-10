@@ -1,0 +1,24 @@
+{
+  "id": "osmioim0-im_-2277-147-683",
+  "name": "osmioim0-im",
+  "groupName": ":Waystones",
+  "displayId": "4de642a6-64fe-44bf-ac50-ac91bbc93a93",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -2277,
+  "y": 147,
+  "z": 683,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
