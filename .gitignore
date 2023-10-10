@@ -1,0 +1,30 @@
+$ cat .gitignore
+#Whitelist
+/*
+/config/worldedit/schematics
+/scripts/generated
+
+#Folders
+!/bansoukou/
+!/config/
+!/patchouli_books
+!/resources
+!/oresources
+!/scripts
+!/structures
+!/ModWatcher
+
+#Files
+!/.gitignore
+!/README.md
+!/PlanAndProgress.md
+
+# This is a part of the modpack!
+!/Title.txt
+
+scripts/.VSCodeCounter/
+resources/crafttweaker/lang/.VSCodeCounter/
+scripts/.brackets.zs
+scripts/.d.zs
+config/triumph/documentation/
+config/triumph/script/triumph/example/
