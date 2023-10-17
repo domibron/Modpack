@@ -47,7 +47,7 @@
 		
 		# Chunk grid overlay in large map
 		# Default: false
-		chunk_grid: false
+		chunk_grid: true
 		
 		# Show claimed chunks on the map
 		# Default: true
@@ -216,7 +216,7 @@
 		
 		# Enables creation of death waypoints
 		# Default: true
-		death_waypoints: true
+		death_waypoints: false
 		
 		# Show waypoints in world
 		# Default: true
