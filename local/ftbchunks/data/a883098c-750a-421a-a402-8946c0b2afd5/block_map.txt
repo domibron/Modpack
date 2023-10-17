@@ -262,6 +262,7 @@
 #EC280B minecraft:light_gray_terracotta
 #7482E4 minecraft:lilac
 #DFD691 minecraft:lily_pad
+#282763 minecraft:lime_stained_glass_pane
 #746434 create:limestone
 #0EC131 lootr:lootr_barrel
 #EA63C2 lootr:lootr_chest
