@@ -1,5 +1,14 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "ad_astra:astrodux": {
+      "viewedEntries": [
+        "ad_astra:the_first_launch/preparing_to_launch",
+        "ad_astra:the_first_launch/basic_materials"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
